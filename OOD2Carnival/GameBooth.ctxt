@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=charge\ p1\ p2
+comment0.target=GameBooth(double,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ constructor\n\ pre\:\ none\n\ post\:\ A\ GameBooth\ object\ created.\n\ The\ cost\ and\ prizes\ are\ set.\n
+comment1.params=
+comment1.target=java.lang.String\ start()
+comment1.text=\n\ Game\ is\ played\ and\ prize\ *\ pre\:\ none\n\ post\:\ Player\ had\ three\ tries.\ Player\ successful\ all\ three\ times\ received\ the\n\ \ \ \ first\ prize.\ A\ consolation\ prize\ has\ been\ awarded\ otherwise\n
+comment2.params=
+comment2.target=double\ getCost()
+comment2.text=\n\ Returns\ the\ cost\ to\ play\ the\ game\n\ pre\:\ none\n\ post\:\ Cost\ of\ the\ game\ has\ been\ returned\n
+comment3.params=
+comment3.target=java.lang.String\ prizesAwarded()
+comment3.text=\n\ Displaying\ number\ of\ awards\ and\ award\n\ \n
+numComments=4

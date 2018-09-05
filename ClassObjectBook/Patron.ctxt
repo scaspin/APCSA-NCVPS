@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Patron()
+comment1.params=f\ l\ ln\ b
+comment1.target=Patron(java.lang.String,\ java.lang.String,\ java.lang.String,\ Book)
+comment10.params=b
+comment10.target=void\ setBook(Book)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=p
+comment2.target=Patron(Patron)
+comment3.params=
+comment3.target=java.lang.String\ getFName()
+comment4.params=
+comment4.target=java.lang.String\ getLName()
+comment5.params=
+comment5.target=java.lang.String\ getLibraryNum()
+comment6.params=
+comment6.target=Book\ getBook()
+comment7.params=f
+comment7.target=void\ setFName(java.lang.String)
+comment8.params=l
+comment8.target=void\ setLName(java.lang.String)
+comment9.params=ln
+comment9.target=void\ setLibNumber(java.lang.String)
+numComments=12

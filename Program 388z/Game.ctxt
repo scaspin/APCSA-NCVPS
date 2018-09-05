@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Game()
+comment0.text=\n\ Default\ constructor\ to\ establish\ game\n\ \n
+comment1.params=
+comment1.target=java.lang.String\ makeCompThrow()
+comment1.text=\n\ Get\ the\ computer\ to\ throw\ their\ choice\ of\ rock,\ paper,\ or\ scissors,\ based\ on\ a\ random\ generator\n\ Return\ the\ string\ value\ of\ their\ throw\n
+comment2.params=
+comment2.target=java.lang.String\ getCompthrow()
+comment2.text=\n\ Returns\ a\ string\ with\ the\ actual\ throw\ of\ the\ computer\ as\ a\ sentence\ rather\ than\ individual\ throw\n
+comment3.params=pt
+comment3.target=java.lang.String\ announceWinner(java.lang.String)
+comment3.text=\n\ Returns\ the\ winner\ and\ a\ message\ of\ each\ individual\ game\ based\ on\ string\ results\n
+comment4.params=
+comment4.target=java.lang.String\ bigWinner()
+comment4.text=\n\ Connotates\ string\ for\ winners\ of\ the\ overall\ game\n\ \n
+numComments=5

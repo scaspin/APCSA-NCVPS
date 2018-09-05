@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testSetMatrix()
+comment0.text=method\ to\ test\ setMatrix
+comment1.params=
+comment1.target=void\ testFillPattern1()
+comment1.text=Method\ to\ test\ fillPattern1
+comment2.params=
+comment2.target=void\ testGetCount()
+comment2.text=\ Method\ to\ test\ getCount\n\ \n\ Count\ should\ be\ 6\ and\ count\ is\ 6\n\ \n
+comment3.params=
+comment3.target=void\ testGetTotal()
+comment3.text=\ Method\ to\ test\ getTotal\ \n
+comment4.params=
+comment4.target=void\ testGetTotalNested()
+comment4.text=Method\ to\ test\ getTotalNested
+comment5.params=
+comment5.target=void\ testGetLargest()
+comment5.text=\ Method\ to\ test\ getLargest\ \n\ Largest\ should\ be\ 6\ and\ is\ 6\n\ Largest\ should\ be\ 6\ and\ is\ 6\n\ Largest\ should\ be\ 6\ and\ is\ 6\n\ Largest\ should\ be\ 6\ and\ is\ 6\n
+comment6.params=
+comment6.target=void\ testGetColTotal()
+comment6.text=\ Method\ to\ test\ getColTotal\ \n\ \n\ Sample\ output\ for\ this\ method\:\n\ Total\ for\ column\ 0\ should\ be\ 5\ and\ is\ 5\n\ Total\ for\ column\ 1\ should\ be\ 7\ and\ is\ 7\n\ Total\ for\ column\ 2\ should\ be\ 9\ and\ is\ 9\ \n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

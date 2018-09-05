@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Change()
+comment0.text=\n\ Default\ &\ Constructor\ methods\n
+comment1.params=p\ c
+comment1.target=void\ Change(double,\ double)
+comment2.params=p
+comment2.target=void\ setPrice(double)
+comment2.text=\n\ Mutator\ methods\n
+comment3.params=c
+comment3.target=void\ setCash(double)
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\n\ Accessor\ methods\n
+comment5.params=
+comment5.target=double\ getCash()
+comment6.params=
+comment6.target=void\ printChange()
+comment6.text=\n\ Program\ to\ calculate\ number\ of\ coins\ for\ change\ needed\n
+numComments=7

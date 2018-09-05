@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=location\ size
+comment0.target=ScreenObject(java.awt.Point,\ java.awt.Rectangle)
+comment0.text=\n\ Create\ the\ screen\ object\ and\ its\ size\ and\ location.\n\ @param\ location\ location\ of\ the\ screen\ object\n\ @param\ size\ size\ of\ the\ screen\ object\n
+comment1.params=
+comment1.target=java.awt.Point\ getLocation()
+comment1.text=\n\ @return\ the\ location\n
+comment2.params=location
+comment2.target=void\ setLocation(java.awt.Point)
+comment2.text=\n\ @param\ location\ the\ location\ to\ set\n
+comment3.params=
+comment3.target=java.awt.Rectangle\ getSize()
+comment3.text=\n\ @return\ the\ size\n
+comment4.params=size
+comment4.target=void\ setSize(java.awt.Rectangle)
+comment4.text=\n\ @param\ size\ the\ size\ to\ set\n
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\n\ \n\ @param\ g\ make\ all\ subclasses\ of\ screenobject\ have\ a\ draw\ method\n
+numComments=6

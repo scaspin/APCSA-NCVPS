@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=s\ width
+comment0.target=java.lang.String\ format(java.lang.String,\ int)
+comment0.text=\n\ \ Returns\ <code>s</code>\ padded\ with\ spaces\ on\ the\ left\ to\ make\n\ \ a\ string\ of\ a\ given\ width\ (if\ <code>s.length()\ <\ width</code>).\n\ \ @param\ width\ the\ (minimal)\ width\ of\ the\ returned\ string.\n\ \ @return\ s\ if\ s.length\ >\ width;\n\ \ otherwise\ returns\ s\ padded\ with\ spaces\ on\ the\ left.\n
+comment1.params=ch\ width
+comment1.target=java.lang.String\ format(char,\ int)
+comment1.text=\n\ \ Returns\ <code>ch</code>\ padded\ with\ spaces\ on\ the\ left\ to\ make\n\ \ a\ string\ of\ a\ given\ width.\n\ \ @param\ width\ the\ (minimal)\ width\ of\ the\ returned\ string.\n\ \ @return\ format(String.valueOf(ch),\ width).\n
+comment2.params=m\ width
+comment2.target=java.lang.String\ format(int,\ int)
+comment2.text=\n\ \ Returns\ <code>m</code>\ padded\ with\ spaces\ on\ the\ left\ to\ make\n\ \ a\ string\ of\ a\ given\ width.\n\ \ @param\ width\ the\ (minimal)\ width\ of\ the\ returned\ string.\n\ \ @return\ format(String.valueOf(m),\ width).\n
+comment3.params=x\ width
+comment3.target=java.lang.String\ format(double,\ int)
+comment3.text=\n\ \ Returns\ <code>x</code>\ padded\ with\ spaces\ on\ the\ left\ to\ make\n\ \ a\ string\ of\ a\ given\ width.\n\ \ @param\ width\ the\ (minimal)\ width\ of\ the\ returned\ string.\n\ \ @return\ format(String.valueOf(x),\ width).\n
+comment4.params=x\ width\ precision
+comment4.target=java.lang.String\ format(double,\ int,\ int)
+comment4.text=\n\ \ Converts\ <code>x</code>\ into\ a\ string\ using\n\ \ a\ DecimalFormat\ with\ the\ specified\ precision.\ \ Returns\ the\ resulting\n\ \ string,\ padded\ with\ spaces\ on\ the\ left\ to\ make\n\ \ a\ string\ of\ a\ given\ width.\n\ \ @param\ width\ the\ (minimal)\ width\ of\ the\ returned\ string.\n\ \ @return\ the\ formatted\ and\ padded\ string.\n
+numComments=5

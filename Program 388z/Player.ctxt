@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment0.text=\n\ Constructor\ methods\ both\ void\ and\ name\n\ \n
+comment1.params=n
+comment1.target=void\ Player(java.lang.String)
+comment2.params=n
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\n\ Mutator\ method\ to\ establish\ anme\ after\ object\ was\ already\ creates\n
+comment3.params=
+comment3.target=void\ makeThrow()
+comment3.text=\n\ Method\ to\ prompt\ user\ for\ throw\ and\ does\ not\ return\ anything\n
+comment4.params=
+comment4.target=java.lang.String\ getThrow()
+comment4.text=\n\ Return\ throw\ as\ a\ string\ after\ throw\ was\ already\ amde\n
+comment5.params=
+comment5.target=java.lang.String\ stringThrow()
+comment5.text=\n\ Give\ string\ answer\ sentence\ based\ on\ name\ and\ throw\n
+numComments=6

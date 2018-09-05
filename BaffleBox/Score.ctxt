@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=location\ size
+comment0.target=Score(java.awt.Point,\ java.awt.Rectangle)
+comment0.text=\n\ Create\ the\ score\ at\ a\ particular\ location\ and\ size.\n\ The\ score\ starts\ at\ zero.\n\ @param\ location\ The\ starting\ location.\n\ @param\ size\ The\ size.\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ To\ draw\ the\ score,\ convert\ the\ integer\ to\ a\ string.\n
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\n\ Retrieve\ the\ score.\n\ @return\ the\ score\n
+comment3.params=score
+comment3.target=void\ setScore(int)
+comment3.text=\n\ Change\ the\ score.\n\ @param\ score\ the\ score\ to\ set\n
+numComments=4

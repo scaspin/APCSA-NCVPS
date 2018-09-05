@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=bal\ fName\ lName\ str\ city\ st\ zip
+comment0.target=Account(double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ constructor\n\ pre\:\ none\npost\:\ An\ account\ cree\ *\ customer\ data\ initia\:
+comment1.params=
+comment1.target=double\ getBalance()
+comment2.params=amt
+comment2.target=void\ deposit(double)
+comment2.text=\n\ A\ deposit\ is\ made\ to\ the\ account\n\ pre\:\ none\n\ post\:\ The\ balance\ has\ been\ increased\ by\ the\ amount\ of\ the\ deposit.\n
+comment3.params=amt
+comment3.target=void\ withdrawal(double)
+comment3.text=\n\ A\ withdrawal\ is\ made\ from\ the\ account\ if\ there\ is\ enough\ money\n\ pre\:\ none\n\ post\:\ The\ balance\ has\ been\ decreased\ by\ the\ amount\ withdrawn.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Returns\ a\ String\ that\ represents\ the\ Account\ object.\n\ pre\:\ none\n\ post\:\ A\ string\ representing\ the\ Account\ object\ has\ been\ returned.\n
+comment5.params=str\ c\ s\ z
+comment5.target=void\ changeAddress(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6

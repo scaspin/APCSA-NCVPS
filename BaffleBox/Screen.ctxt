@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Screen()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ addBaffle()
+comment3.params=locat
+comment3.target=void\ shoot(int)
+comment4.params=
+comment4.target=void\ addLaserShot()
+comment5.params=event
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=arg0
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=event
+comment7.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=8

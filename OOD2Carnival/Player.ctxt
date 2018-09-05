@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=money
+comment0.target=Player(double)
+comment0.text=\n\ constructor\n\ pre\:\ none\n\ post\:\ A\ Player\ object\ created\ Spending\ money\ given\ to\n\ player.\ The\ prizes\ won\ set\ to\ none.\n
+comment1.params=
+comment1.target=java.lang.String\ info()
+comment1.text=\n\ Displays\ money\ left\ and\ objects\ won\ with\ no\ pre\n\ \n
+comment2.params=game
+comment2.target=java.lang.String\ play(GameBooth)
+comment2.text=\n\ Player\ pays\ for\ and\ then\ plays\ a\ game.\n\ pre\:\ none\n\ post\:\ Player's\ spending\ money\ decreased\ by\ cost\ of\ game.\n\ The\ player\ has\ a\ new\ prize\ added\ to\ existing\ prizes.\n
+comment3.params=
+comment3.target=java.lang.String\ showPrizes()
+comment3.text=\n\ Returns\ the\ list\ of\ prizes\ won.\n\ pre\:\ none\npost\:\ The\ list\ of\ prizes\ has\ been\ returned.
+numComments=4

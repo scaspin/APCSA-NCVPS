@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=location\ size\ i\ angle
+comment0.target=LaserShot(java.awt.Point,\ java.awt.Rectangle,\ java.awt.Image,\ double)
+comment0.text=\n\ \n\ @param\ location\ location\ of\ the\ projectile\n\ @param\ size\ size\ of\ the\ projectile\n\ @param\ i\ image\ of\ the\ projectile\n\ @param\ angle\ angle\ the\ projectile\ is\ aiming\ toward\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ simulates\ movement\ of\ the\ projectile\n
+numComments=2

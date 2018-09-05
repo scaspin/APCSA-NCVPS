@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=fName\ lName\ str\ c\ s\ z
+comment0.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ constructor\n\ pre\:\ none\n\ post\:\ A\ Customer\ object\ has\ been\ created.\n\ Customer\ data\ has\ been\ initialized\ with\ parameters\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Returns\ a\ String\ that\ represents\ the\ Customer\ Object\n\ pre\:\ none\n\ post\:\ A\ string\ representing\ the\ Account\ object\ has\ been\ returned.\n
+comment2.params=str
+comment2.target=void\ changeStreet(java.lang.String)
+comment2.text=\n\ Mutator\ methods\ to\ change\ street,\ change\ city,\ change\ state,\ and\ change\ zipcode\n\ \n
+comment3.params=c
+comment3.target=void\ changeCity(java.lang.String)
+comment4.params=s
+comment4.target=void\ changeState(java.lang.String)
+comment5.params=z
+comment5.target=void\ changeZip(java.lang.String)
+numComments=6

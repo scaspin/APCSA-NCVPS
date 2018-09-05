@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=changeX\ changeY
+comment0.target=Vector(double,\ double)
+comment0.text=\n\ @param\ changeX\ the\ x\ value\ of\ the\ vector\n\ @param\ changeY\ the\ y\ value\ of\ the\ vector\n
+comment1.params=
+comment1.target=double\ getChangeX()
+comment1.text=\n\ @return\ the\ changeX\n
+comment2.params=changeX
+comment2.target=void\ setChangeX(double)
+comment2.text=\n\ @param\ changeX\ the\ changeX\ to\ set\n
+comment3.params=
+comment3.target=double\ getChangeY()
+comment3.text=\n\ @return\ the\ changeY\n
+comment4.params=changeY
+comment4.target=void\ setChangeY(double)
+comment4.text=\n\ @param\ changeY\ the\ changeY\ to\ set\n
+numComments=5
